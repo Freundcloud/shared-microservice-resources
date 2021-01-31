@@ -1,0 +1,7 @@
+environment                  = "sbx"
+prefix                       = "aks-demo"
+location                     = "uksouth"
+acrname                      = "aksdemosbxacr"
+provision_appinsight         = "true"
+domain                       = "s.freundcloud.org.uk"
+tenant_id                    = "048aafcb-1b5a-4da8-802e-5a3f7f530521"
